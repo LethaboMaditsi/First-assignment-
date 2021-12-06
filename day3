@@ -6,6 +6,9 @@
 
     <title>Maditsi's Resume</title>
     <h1{color:red;backround-color:blue;}> Maditsi Rapelego </h1>
+        color: blue; 
+        font-family: comic, helvetica, sans-serif; 
+      }> Maditsi Rapelego </h1>
         <p style="color: aqua;"> To secure a challenging position in a reputable organization to expand my
             learnings,knowlwdge and skills</p>
         <p>
