@@ -5,7 +5,7 @@
 <head>
 
     <title>Maditsi's Resume</title>
-    <h1{color:red;backround-color:blue;}> Maditsi Rapelego </h1>
+    <h1 { 
         color: blue; 
         font-family: comic, helvetica, sans-serif; 
       }> Maditsi Rapelego </h1>
