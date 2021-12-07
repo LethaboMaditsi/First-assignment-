@@ -1,22 +1,24 @@
 body{
-  font-family: sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:110%;
+  color:rgb(206, 104, 104);
   background-color: #FCF7F8;
 }
 
 header {
   text-align:center;
-  background-color: #343330;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #3d3a32;
 }
 
 nav {text-align: left;
-background-color:green 
+background-color:green ;
+width: fit-content;
 }
 
 article { text-align: ;
-  font-family:  ;
-  font color: ;
-background-color:rgb(23, 23, 66) ;}
+  font-family: 'Courier New', Courier, monospace;
+background-color:rgb(13, 71, 62) ;}
 footer {
   background-color: #343330;
   text-align: center;
