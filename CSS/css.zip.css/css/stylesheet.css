@@ -8,13 +8,20 @@ body{
 header {
   text-align:center;
   font-family: 'Times New Roman', Times, serif;
-  background-color: #3d3a32;
+  background-color: black;
+  
 }
 
 nav {text-align: left;
 background-color:green ;
 width: fit-content;
 }
+
+#headshot { width: 30%;
+  height: 15%;
+  border: #45a29e solid 30px;
+  border-radius: 50%;
+  height: 15%;
 
 article { text-align: ;
   font-family: 'Courier New', Courier, monospace;
