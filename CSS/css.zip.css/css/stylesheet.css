@@ -3,6 +3,7 @@ body{
   font-size:110%;
   color:rgb(206, 104, 104);
   background-color: #FCF7F8;
+  border: coral solid;
 }
 
 header {
@@ -19,9 +20,9 @@ width: fit-content;
 
 #headshot { width: 30%;
   height: 15%;
-  border: #45a29e solid 30px;
+border: blue solid;
   border-radius: 50%;
-  height: 15%;
+}
 
 article { text-align: ;
   font-family: 'Courier New', Courier, monospace;
@@ -30,3 +31,6 @@ footer {
   background-color: #343330;
   text-align: center;
 }
+.icons{ width: 3rem;
+height: auto;
+margin: 5%;}
