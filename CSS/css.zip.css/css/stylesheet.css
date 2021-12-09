@@ -16,14 +16,17 @@ header {
 nav {text-align: left;
 background-color:rgba(0, 128, 0, 0.26) ;
 width: fit-content;
-display: flex;
+
 }
+#container{
+  display: flex;
+}
+
 
 article { background-color: coral;
 }
 
-#headshot { width: 30%;
-  height: 15%;
+#headshot { width: 10%;
 border: blue solid;
   border-radius: 100%;
 }
