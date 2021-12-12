@@ -4,42 +4,41 @@ body {
   color:rgb(3, 8, 4);
   background-color: #1fb1bb;
   border: coral solid;
+  
 }
 
 header {
   text-align:center;
   font-family: 'Times New Roman', Times, serif;
   background-color: rgb(101, 141, 155);
-  border: coral solid;  
+  border-radius: 6%;  
 }
 
 nav {text-align: left;
 background-color:rgba(0, 128, 0, 0.26) ;
 width: fit-content;
-
+border-radius: 6%;
 }
 #container{
   display: flex;
 }
 
 
-article { background-color: coral;
-}
-
 #headshot { width: 10%;
 border: blue solid;
-  border-radius: 100%;
+  border-radius: 50%;
 }
 
 article { text-align: left;
   font-family: Arial, Helvetica, sans-serif;
-background-color:rgb(15, 48, 85) ;
 }
 
 footer {
   background-color: #7c796f;
   text-align: center;
+  border-end-end-radius: 6%;
 }
+
 #icon {
   width: 3rem; 
   border-radius: 30%;
