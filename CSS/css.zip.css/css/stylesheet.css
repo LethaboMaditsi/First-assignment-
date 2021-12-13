@@ -2,31 +2,32 @@ body {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:110%;
   color:rgb(3, 8, 4);
-  background-color: #1fb1bb;
-  border: coral solid;
+  background-color: #072224;
+  border: rgb(228, 137, 19) solid;
   
 }
 
 header {
   text-align:center;
-  font-family: 'Times New Roman', Times, serif;
-  background-color: rgb(101, 141, 155);
-  border-radius: 6%;  
+  font-family: sans-serif;
+  background-color: rgb(1, 1, 2); 
+  color: rgb(228, 137, 19);
 }
 
 nav {text-align: left;
-background-color:rgba(0, 128, 0, 0.26) ;
+background-color:rgb(8, 46, 8) ;
 width: fit-content;
-border-radius: 6%;
 }
 #container{
   display: flex;
+  justify-content: space-between;
 }
 
 
-#headshot { width: 10%;
-border: blue solid;
+#headshot { width: 40%;
+border: rgb(228, 137, 19) solid;
   border-radius: 50%;
+  margin-top: 5%;
 }
 
 article { text-align: left;
@@ -34,13 +35,13 @@ article { text-align: left;
 }
 
 footer {
-  background-color: #7c796f;
+  background-color: #302f2b;
   text-align: center;
-  border-end-end-radius: 6%;
+  color: rgb(228, 137, 19);
 }
 
 #icon {
-  width: 3rem; 
-  border-radius: 30%;
-  margin: 2.5%;
+  width: 5rem; 
+  border-radius: 50%;
+  margin: 3%;
 }
