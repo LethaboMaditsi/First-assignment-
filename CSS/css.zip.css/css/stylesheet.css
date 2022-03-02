@@ -13,7 +13,7 @@ header {
   color: chocolate;
 }
 
-picture{background-image: url('images\Waist up.jpg');
+picture{background-image: url("...images\Waist up.jp");
        background-size: cover;
        background-repeat: no-repeat;
        width:"100%"
@@ -26,6 +26,7 @@ background-color:#302f2b ;
 width: fit-content;
 color: chocolate;
 padding-left: 3%;
+
 }
 #container{
   display: flex;
