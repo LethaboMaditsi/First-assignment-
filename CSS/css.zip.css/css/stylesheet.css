@@ -13,6 +13,14 @@ header {
   color: chocolate;
 }
 
+picture{background-image: url('images\Waist up.jpg');
+       background-size: cover;
+       background-repeat: no-repeat;
+       width:"100%"
+       height:"100%"
+       alt="My picture"
+}
+
 nav {text-align: left;
 background-color:#302f2b ;
 width: fit-content;
