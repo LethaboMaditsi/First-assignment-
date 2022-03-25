@@ -4,7 +4,7 @@ body {
   text-align: center;
   color:hex(400, 85%, 35%);
   border: chocolate solid;
-  background-color: rgb(221, 200, 173);
+  background-image: url("../images/Waist up.jpg");
   background-size:cover;
   background-repeat: no-repeat;
  /*display: grid;
@@ -78,8 +78,9 @@ a:visited {
   color:rgb(39, 61, 33)
 }
 @media only screen (max-width:768px)/*if the browser is 768px or smaller*/
-body{background-size:cover;
-  
+{body{background-image:url("../images/Face.jpg")
+  background-size:cover;
+
 }
 .content {display:grid;
 width:45%,
@@ -89,17 +90,17 @@ margin-left:auto;
 margin-right:auto;
 }
 
-.img{width: auto;}
+
 
 @media only screen and (max-width: 550px) {
-   body { background-image:url() ;
-  background-size:cover; }
+   body { background-image:url("../images/Face.jpg") ;
+  background-size:fit-content; }
 } 
 .content{
 display: block;
 width:75%;
 height:250px;
-background-color: #c0baa3;
+
 margin-left:auto;
 margin-right: auto;
 }
@@ -112,14 +113,14 @@ grid-row-end: 6;}*/
 
 
 @media only screen and (min-width: 992px) {
-   body { background-image: url("");
-  background-size: cover; }
+   body { background-image: url("..images/Waist up.jpg");
+  background-size: fit-content; }
   }
   .content{
     display: inline-block;
     width:45%;
     height:250px;
-    background-color: #c0baa3;
+    
     margin-left:auto;
     margin-right: auto;
     }
@@ -130,5 +131,5 @@ grid-row-end: 6;}*/
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-   body { background-color: rgb(204, 190, 165); }
+   body { background-image: url("..images/Waist up.jpg"); }
 }
